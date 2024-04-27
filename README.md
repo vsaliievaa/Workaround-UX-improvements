@@ -6,13 +6,13 @@ The aim of the project is to improve efficiency, learnability, and error rate of
 
 ## Artefacts
 
-The main result of the project is the prototype of improved Workaround website. The demonstration of its final version can be found [here]().
+The main result of the project is the prototype of improved Workaround website. The demonstration of its final version can be found [here](https://www.figma.com/proto/uq0Jy848zOU9ycVbA2zV2z/Prototyping-%26-Testing?type=design&node-id=447-20733&t=9uQPs7Yp0E0JASWM-1&scaling=scale-down-width&page-id=447%3A20478&mode=design).
 
 Other key links are:
 
-1. [FigJam Workplace]() - results of analysis, ideation, and definition stages.
-2. [Figma file]() with the user flow diagrams, components, and prototypes.
-3. [Demonstration]() of the first prototype version.
+1. [FigJam Workplace](https://www.figma.com/file/3Pi2MUHhSMhuFoKQll91bO/Workplace?type=whiteboard&node-id=19-112&t=lYRSU3r5YSMMGDiY-4) - results of analysis, ideation, and definition stages.
+2. [Figma file](https://www.figma.com/file/uq0Jy848zOU9ycVbA2zV2z/Prototyping-%26-Testing?type=design&node-id=447%3A20478&mode=design&t=loxEre3aRNNln9yf-1) with the user flow diagrams, components, and prototypes.
+3. [Demonstration](https://www.figma.com/proto/uq0Jy848zOU9ycVbA2zV2z/Prototyping-%26-Testing?type=design&node-id=21-524&t=bibfCf58X2AW72R5-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=21%3A524&mode=design) of the first prototype version.
 
 Other artefacts created during the research are described below.
 
