@@ -2,8 +2,6 @@
 
 This is the repository for the thesis project "Applying User-Centered Design to Improve User Experience of Workaround SaaS CV Builder" completed by Vira Saliieva under the supervision of Kateryna Kamianets. 
 
-The aim of the project is to improve efficiency, learnability, and error rate of [Workaround](https://workaround.one/), a web application that generates CVs customized to job openings.
-
 ## Important links
 
 The main result of the project is the prototype of improved Workaround website. The demonstration of its final version can be found [here](https://www.figma.com/proto/uq0Jy848zOU9ycVbA2zV2z/Prototyping-%26-Testing?type=design&node-id=503-20599&t=AhOuLTpmsS34xee5-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=21%3A524&mode=design).
