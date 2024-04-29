@@ -19,16 +19,15 @@ Other important links:
 During this stage, I analysed Workaround and two other resume generation websites, conducted usability testing and heuristics audit. This section includes the following deliverables:
 1. Results of moderated usability testing for three websites.
 2. Heuristics audit.
-3. A table with calculations of time to completion for key tasks.
-4. Analysis of Hotjar session recordings for Workaround.
+3. Analysis of Hotjar session recordings for Workaround.
 
 ### Definition
 
-At this stage, I defined two personas of Workaround users and created a customer journey map for the primary persona.
+At this stage, I defined two personas of Workaround users and created a customer journey map for the primary persona. I have also calculated the time to completion for key tasks using the KLM-GOMS model.
 
 ### Ideation
 
-Based on personas and initial usability research, I constructed a backlog of features and development requirements to solve the identified issues and prioritized with the help of the impact-effort matrix. This folder also contains the sketches of the interface.
+Based on personas and initial usability research, I constructed a backlog of features and development requirements to solve the identified issues and prioritized with the help of the impact-effort matrix. This folder also contains the sketches of the interface and two versions of the user flow diagrams.
 
 ### Prototyping
 
@@ -36,4 +35,4 @@ The most priority features from the backlog were implemented in the interactive 
 
 ### Testing
 
-Two iterations of testing were conducted to validate the assumptions made in the prototypes. After this stage, I analyzed the new inputs form users and updated the impact-effort matrix accordingly.
+Two iterations of testing were conducted to validate the assumptions made in the prototypes. After this stage, I analyzed the collected inputs from users and updated the impact-effort matrix accordingly.
